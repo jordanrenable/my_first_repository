@@ -1,5 +1,3 @@
 # README #
 
-## Table of Contents
-
-- example_file.txt
+whisper words of wisdom, let it be
